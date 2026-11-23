@@ -1,0 +1,213 @@
+{
+  "manifestVersion": 2,
+  "id": "doki-terminal-dark-2",
+  "name": "Doki Dark Terminal Themes 2",
+  "version": "0.1.0",
+  "description": "Doki and termcn dark terminal palettes from doki-theme-picker.",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "execution": "data",
+  "contributes": {
+    "terminalThemes": [
+      {
+        "id": "termcn-amoled",
+        "title": "termcn AMOLED",
+        "path": "terminal/termcn-amoled.json"
+      },
+      {
+        "id": "termcn-aura",
+        "title": "termcn Aura",
+        "path": "terminal/termcn-aura.json"
+      },
+      {
+        "id": "termcn-ayu",
+        "title": "termcn Ayu",
+        "path": "terminal/termcn-ayu.json"
+      },
+      {
+        "id": "termcn-carbonfox",
+        "title": "termcn Carbonfox",
+        "path": "terminal/termcn-carbonfox.json"
+      },
+      {
+        "id": "termcn-catppuccin",
+        "title": "termcn Catppuccin",
+        "path": "terminal/termcn-catppuccin.json"
+      },
+      {
+        "id": "termcn-catppuccin-frappe",
+        "title": "termcn Catppuccin Frappe",
+        "path": "terminal/termcn-catppuccin-frappe.json"
+      },
+      {
+        "id": "termcn-catppuccin-macchiato",
+        "title": "termcn Catppuccin Macchiato",
+        "path": "terminal/termcn-catppuccin-macchiato.json"
+      },
+      {
+        "id": "termcn-cobalt2",
+        "title": "termcn Cobalt2",
+        "path": "terminal/termcn-cobalt2.json"
+      },
+      {
+        "id": "termcn-cursor",
+        "title": "termcn Cursor",
+        "path": "terminal/termcn-cursor.json"
+      },
+      {
+        "id": "termcn-default",
+        "title": "termcn Default",
+        "path": "terminal/termcn-default.json"
+      },
+      {
+        "id": "termcn-dracula",
+        "title": "termcn Dracula",
+        "path": "terminal/termcn-dracula.json"
+      },
+      {
+        "id": "termcn-everforest",
+        "title": "termcn Everforest",
+        "path": "terminal/termcn-everforest.json"
+      },
+      {
+        "id": "termcn-flexoki",
+        "title": "termcn Flexoki",
+        "path": "terminal/termcn-flexoki.json"
+      },
+      {
+        "id": "termcn-github",
+        "title": "termcn GitHub",
+        "path": "terminal/termcn-github.json"
+      },
+      {
+        "id": "termcn-gruvbox",
+        "title": "termcn Gruvbox",
+        "path": "terminal/termcn-gruvbox.json"
+      },
+      {
+        "id": "termcn-high-contrast",
+        "title": "termcn High Contrast",
+        "path": "terminal/termcn-high-contrast.json"
+      },
+      {
+        "id": "termcn-kanagawa",
+        "title": "termcn Kanagawa",
+        "path": "terminal/termcn-kanagawa.json"
+      },
+      {
+        "id": "termcn-lucent-orng",
+        "title": "termcn Lucent Orng",
+        "path": "terminal/termcn-lucent-orng.json"
+      },
+      {
+        "id": "termcn-material",
+        "title": "termcn Material",
+        "path": "terminal/termcn-material.json"
+      },
+      {
+        "id": "termcn-matrix",
+        "title": "termcn Matrix",
+        "path": "terminal/termcn-matrix.json"
+      },
+      {
+        "id": "termcn-mercury",
+        "title": "termcn Mercury",
+        "path": "terminal/termcn-mercury.json"
+      },
+      {
+        "id": "termcn-monokai",
+        "title": "termcn Monokai",
+        "path": "terminal/termcn-monokai.json"
+      },
+      {
+        "id": "termcn-night-owl",
+        "title": "termcn Night Owl",
+        "path": "terminal/termcn-night-owl.json"
+      },
+      {
+        "id": "termcn-nord",
+        "title": "termcn Nord",
+        "path": "terminal/termcn-nord.json"
+      },
+      {
+        "id": "termcn-oc-2",
+        "title": "termcn OC-2",
+        "path": "terminal/termcn-oc-2.json"
+      },
+      {
+        "id": "termcn-one-dark",
+        "title": "termcn One Dark",
+        "path": "terminal/termcn-one-dark.json"
+      },
+      {
+        "id": "termcn-one-dark-pro",
+        "title": "termcn One Dark Pro",
+        "path": "terminal/termcn-one-dark-pro.json"
+      },
+      {
+        "id": "termcn-opencode",
+        "title": "termcn OpenCode",
+        "path": "terminal/termcn-opencode.json"
+      },
+      {
+        "id": "termcn-orng",
+        "title": "termcn Orng",
+        "path": "terminal/termcn-orng.json"
+      },
+      {
+        "id": "termcn-osaka-jade",
+        "title": "termcn Osaka Jade",
+        "path": "terminal/termcn-osaka-jade.json"
+      },
+      {
+        "id": "termcn-palenight",
+        "title": "termcn Palenight",
+        "path": "terminal/termcn-palenight.json"
+      },
+      {
+        "id": "termcn-rose-pine",
+        "title": "termcn Rose Pine",
+        "path": "terminal/termcn-rose-pine.json"
+      },
+      {
+        "id": "termcn-shades-of-purple",
+        "title": "termcn Shades of Purple",
+        "path": "terminal/termcn-shades-of-purple.json"
+      },
+      {
+        "id": "termcn-solarized",
+        "title": "termcn Solarized",
+        "path": "terminal/termcn-solarized.json"
+      },
+      {
+        "id": "termcn-synthwave-84",
+        "title": "termcn Synthwave '84",
+        "path": "terminal/termcn-synthwave-84.json"
+      },
+      {
+        "id": "termcn-tokyo-night",
+        "title": "termcn Tokyo Night",
+        "path": "terminal/termcn-tokyo-night.json"
+      },
+      {
+        "id": "termcn-vercel",
+        "title": "termcn Vercel",
+        "path": "terminal/termcn-vercel.json"
+      },
+      {
+        "id": "termcn-vesper",
+        "title": "termcn Vesper",
+        "path": "terminal/termcn-vesper.json"
+      },
+      {
+        "id": "termcn-zenburn",
+        "title": "termcn Zenburn",
+        "path": "terminal/termcn-zenburn.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "author": "shelmecha",
+  "repository": "https://github.com/shelmecha/doki-orca-dark-2"
+}
